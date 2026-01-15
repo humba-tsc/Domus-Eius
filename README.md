@@ -1,2 +1,2 @@
 # Domus-Eius
- let’s build a House Called Her House meaning Domus Eius, looking like the house called THE ONE in America but ours should be well advanced with more nice room and features
+ Her House - A luxury residential project featuring 3D models, visualizations, and technical specifications. Inspired by THE ONE, but with advanced features and superior design
